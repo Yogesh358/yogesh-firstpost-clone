@@ -113,12 +113,12 @@ export const profileSection = `<div class="container py-5">
                 <ul class="list-group list-group-flush rounded-3">
                     <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                         <i class="fas fa-globe fa-lg text-warning"></i>
-                        <p class="mb-0"><a href="https://firstpost-clone.netlify.app/">Website : Firstpost</a></p>
+                        <p class="mb-0"><a href="https://yogesh-firstpost-clone.netlify.app/">Website : Firstpost</a></p>
                     </li>
                     <li class="list-group-item d-flex justify-content-between align-items-center p-3">
                         <i class="fab fa-github fa-lg" style="color: #333333;"></i>
                         <p class="mb-0">
-                            <a href="https://github.com/Royanosh/firstpost">Github : Firstpost</a>
+                            <a href="https://github.com/Yogesh358/yogesh-firstpost-clone">Github : Firstpost</a>
                         </p>
                     </li>
                 </ul>
